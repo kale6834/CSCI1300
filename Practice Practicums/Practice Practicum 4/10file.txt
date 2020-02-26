@@ -1,0 +1,3 @@
+Rainy,0.9
+Thunderstorm, 0.69
+Hurricane, 0.9

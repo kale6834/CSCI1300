@@ -1,0 +1,115 @@
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+3
+Database has not been fully initialized
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+1
+Enter a book file name:
+10_books.txt
+Total books in the database: 10
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+1
+Enter a book file name:
+5_books.txt
+Total books in the database: 15
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+2
+Enter a rating file name:
+5_ratigns.txt
+lisa...
+marc...
+kristina...
+vernon...
+andrew...
+Total users in the database: 5
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+3
+Here is a list of books
+The Great Gatsby by F. Scott Fitzgerald
+The Grapes of Wrath by John Steinbeck
+Nineteen Eighty-Four by George Orwell
+Ulysses by James Joyce
+Lolita by Vladimir Nabokov
+Catch-22 by Joseph Heller
+The Catcher in the Rye by J. D. Salinger
+Beloved by Toni Morrison
+The Sound and the Fury by William Faulkner
+To Kill a Mockingbird by Harper Lee
+One Hundred Years of Solitude by Gabriel García Márquez
+Brave New World by Aldous Huxley
+To the Lighthouse by Virginia Woolf
+Invisible Man by Ralph Ellison
+Gone with the Wind by Margaret Mitchell
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+10
+good bye!

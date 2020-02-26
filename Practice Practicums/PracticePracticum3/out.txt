@@ -1,0 +1,4 @@
+Panama, 42.106
+Papua New Guinea, 12.816
+Paraguay, 16.7949
+Peru, 22.705

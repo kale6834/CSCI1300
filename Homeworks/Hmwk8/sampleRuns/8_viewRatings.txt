@@ -1,0 +1,322 @@
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+8
+Enter username:
+thisUser
+Database has not been fully initialized
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+1
+Enter a book file name:
+books.txt
+Total books in the database: 50
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+2
+Enter a rating file name:
+ratings.txt
+cynthia...
+diane...
+joan...
+barbara...
+doris...
+margaret...
+jerry...
+stephen...
+brittany...
+jane...
+laura...
+janet...
+charles...
+jean...
+frank...
+jennifer...
+keith...
+sandra...
+rebecca...
+benjamin...
+jacqueline...
+arthur...
+mary...
+timothy...
+katherine...
+christian...
+kimberly...
+russell...
+elizabeth...
+gregory...
+carl...
+john...
+judith...
+scott...
+lauren...
+gloria...
+rachel...
+alice...
+gerald...
+megan...
+linda...
+victoria...
+ethan...
+kevin...
+ann...
+peter...
+dennis...
+mark...
+jordan...
+pamela...
+larry...
+rose...
+angela...
+bobby...
+sharon...
+cheryl...
+matthew...
+olivia...
+andrew...
+amber...
+deborah...
+susan...
+beverly...
+alexander...
+amanda...
+anna...
+ryan...
+lawrence...
+kyle...
+nancy...
+tiffany...
+kathleen...
+marilyn...
+emily...
+teresa...
+ralph...
+amy...
+shirley...
+carol...
+henry...
+brandon...
+dorothy...
+eric...
+raymond...
+adam...
+johnny...
+Total users in the database: 86
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+8
+Enter username:
+doris
+Here are the books that doris rated
+Title : The Hitchhiker's Guide To The Galaxy
+Rating : 5
+-----
+Title : Watership Down
+Rating : 3
+-----
+Title : The Five People You Meet in Heaven
+Rating : 3
+-----
+Title : Speak
+Rating : 1
+-----
+Title : Thirteen Reasons Why
+Rating : 4
+-----
+Title : Foundation Series
+Rating : 1
+-----
+Title : The Sisterhood of the Travelling Pants
+Rating : 1
+-----
+Title : A Great and Terrible Beauty
+Rating : 3
+-----
+Title : The Da Vinci Code
+Rating : 3
+-----
+Title : The Princess Diaries
+Rating : 4
+-----
+Title : Ender's Game
+Rating : 5
+-----
+Title : The Hunt for Red October
+Rating : 3
+-----
+Title : The Hunger Games
+Rating : 3
+-----
+Title : The Great Gatsby
+Rating : 1
+-----
+Title : Neuromancer
+Rating : 2
+-----
+Title : Lord of the Flies
+Rating : 5
+-----
+Title : The Princess Bride
+Rating : 5
+-----
+Title : Dinotopia: A Land Apart from Time
+Rating : 1
+-----
+Title : Far North
+Rating : 1
+-----
+Title : Brave New World
+Rating : 2
+-----
+Title : The Summer Tree
+Rating : 4
+-----
+Title : Flowers For Algernon
+Rating : 3
+-----
+Title : Owl in Love
+Rating : 3
+-----
+Title : Naruto
+Rating : 2
+-----
+Title : Bleach (graphic novel)
+Rating : 2
+-----
+Title : To Kill a Mockingbird
+Rating : 1
+-----
+Title : The Lion the Witch and the Wardrobe
+Rating : 4
+-----
+Title : The Bourne Series
+Rating : 2
+-----
+Title : Life of Pi
+Rating : 1
+-----
+Title : Sabriel
+Rating : 5
+-----
+Title : Nineteen Eighty-Four (1984)
+Rating : 1
+-----
+Title : Eragon
+Rating : 5
+-----
+Title : Hatchet
+Rating : 5
+-----
+Title : My Sister's Keeper
+Rating : 2
+-----
+Title : The Golden Compass
+Rating : 4
+-----
+Title : Harry Potter Series
+Rating : 5
+-----
+Title : Shonen Jump Series
+Rating : 2
+-----
+Title : Bone Series
+Rating : 3
+-----
+Title : Maus: A Survivor's Tale
+Rating : 5
+-----
+Title : The Joy Luck Club
+Rating : 3
+-----
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+6
+Enter username:
+newUser
+Welcome to the library newUser
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+8
+Enter username:
+newUser
+newUser has not rated any books yet
+
+Select a numerical option:
+======Main Menu=====
+1. Read book file
+2. Read user file
+3. Print book list
+4. Find number of books user rated
+5. Get average rating
+6. Add a User
+7. Checkout a book
+8. View Ratings
+9. Get Recommendations
+10. Quit
+10
+good bye!
